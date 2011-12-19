@@ -1,0 +1,16 @@
+<?php
+
+//Define our basepath
+$config['path'] = "/github/miniphpframework";
+
+// set the theme for the site
+$config['theme'] = 'example';
+
+// set the default layout
+$config['layout'] = 'default';
+
+// page title suffix
+$config['sitewide_title'] = 'Mini PHP Framework';
+
+$config['email_to'] = 'test@test.com';
+$config['email_from'] = 'Mini PHP Framework Site <test@test.com>';
